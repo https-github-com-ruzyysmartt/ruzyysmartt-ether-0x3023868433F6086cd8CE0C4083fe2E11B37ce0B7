@@ -1,0 +1,17 @@
+name: ruzyysmartt-0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7
+
+on: [push]
+
+jobs:test reposintory
+  build:my address:0x3023868433F6086cd8CE0C4083fe2E11B37ce0B7
+
+    runs-on: ubuntu-latest
+
+    steps:my account address
+    - uses: actions/checkout@v1
+    - name: Run a one-line script
+      run: echo Hello, world!
+    - name: Run a multi-line script
+      run: |npm 
+        echo Add other actions to build,
+        echo test, and deploy your project.
